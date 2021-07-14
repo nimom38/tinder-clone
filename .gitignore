@@ -1,0 +1,26 @@
+/tinder-backend/node_modules
+/tinder-backend/.env
+
+/tinder-clone/node_modules
+/tinder-clone/.pnp
+/tinder-clone/.pnp.js
+
+# testing
+/tinder-clone/coverage
+
+# production
+/tinder-clone/build
+
+# misc
+/tinder-clone/.DS_Store
+/tinder-clone/.env.local
+/tinder-clone/.env.development.local
+/tinder-clone/.env.test.local
+/tinder-clone/.env.production.local
+
+/tinder-clone/npm-debug.log*
+/tinder-clone/yarn-debug.log*
+/tinder-clone/yarn-error.log*
+
+
+/src/.env
